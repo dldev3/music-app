@@ -25,7 +25,7 @@ function loadSong(song){
     cover.src = `images/${song}.jpg`
 }
 
-console.log("Print");
+
 
 
 
