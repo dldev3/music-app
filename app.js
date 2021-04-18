@@ -25,7 +25,9 @@ function loadSong(song){
     cover.src = `images/${song}.jpg`
 }
 
-
+console.log(1);
+console.log(2);
+console.log();
 
 
 
